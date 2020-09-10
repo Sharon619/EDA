@@ -1,0 +1,18 @@
+CIA - 3
+
+This project is based on Exploratory data Analysis using pythom, trying to uncover patterns and insights from the data set
+
+Data Set
+Information about various data analyst jobs in USA.
+
+Different bar graphs are used to derive useful insights.
+
+
+Insights
+
+1.	Apex Systems, 22nd Century Technologies, Chime, Signify Health and 22nd Century Staffing are the top 5 companies hiring for data Analyst Roles
+2.	Salary ranges between 25,000$-1,80,000$ per annum, however average salary lies between 45,000$ - 85,000$  
+3.	California state offers the highest number of jobs with maximum salary
+4.	Expertise in different domains draw highest salary, no specific role is on high demand, however studio domain has repeated thrice in top 20 roles.
+5.	Companies with less than 500 employees are hiring data analysts, as all the start ups in US tend to make data driven decisions
+6.	Data Analyst and Senior Data analyst are the highest demanded Job title in USA 
